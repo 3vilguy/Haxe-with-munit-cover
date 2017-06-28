@@ -1,0 +1,19 @@
+# Docs
+doc
+
+# IDE
+*.hxproj
+*.iml
+.idea
+
+# Haxe
+.haxelib
+.temp
+bin
+build
+out
+report
+
+# Unit Test
+test/ExampleTest.hx
+test/TestSuite.hx
